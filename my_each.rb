@@ -8,6 +8,6 @@ def my_each(array) # put argument(s) here
       i+=1
     end
   else
-    puts "Error"
+    array
   end
 end
